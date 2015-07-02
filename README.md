@@ -1,0 +1,2 @@
+# akku
+simple accounting
